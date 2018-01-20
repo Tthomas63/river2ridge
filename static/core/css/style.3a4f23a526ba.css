@@ -1,0 +1,8 @@
+html,
+body,
+.background {
+    background: linear-gradient(180deg,
+    rgba(2,173,231,0.5),
+    rgba(184,93,92,0.82)),
+    url("/static/core/dark-triangles.e81c8129adb1.png");
+}
