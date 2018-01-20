@@ -39,6 +39,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'river2ridge-site.herokuapp.com',
+    'river2ridge-staging.herokuapp.com',
     'localhost',
 ]
 
